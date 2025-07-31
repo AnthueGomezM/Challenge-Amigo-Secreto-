@@ -5,6 +5,7 @@ Una aplicación sencilla e interactiva para organizar sorteos del clásico juego
 <img width="1870" height="962" alt="image" src="https://github.com/user-attachments/assets/f349c57d-f127-4346-a587-d7cc1a3c0096" />
 
 🚀 Funcionalidades
+
 ✅ Agregar nombres a una lista dinámica.
 
 ✅ Validación de entrada para evitar campos vacíos.
