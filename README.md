@@ -28,7 +28,7 @@ JavaScript
 
 ✅Clona el repositorio:
 
-  git clone https://github.com/tu-usuario/amigo-secreto.git
+  git clone https://github.com/AnthueGomezM/Challenge-Amigo-Secreto-.git
 
 ✅Abre el archivo index.html en tu navegador favorito.
 
