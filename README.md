@@ -23,3 +23,16 @@ HTML5
 CSS3
 
 JavaScript
+
+▶️ Cómo usar
+
+✅Clona el repositorio:
+
+  git clone https://github.com/tu-usuario/amigo-secreto.git
+
+✅Abre el archivo index.html en tu navegador favorito.
+
+✅Ingresa nombres en el campo de texto y haz clic en "Añadir".
+
+✅Una vez que tengas una lista, haz clic en "Sortear amigo" y ¡diviértete!
+
